@@ -1,0 +1,5 @@
+pyobjc
+pyobjc-framework-Quartz
+pyobjc-framework-ApplicationServices
+pyobjc-framework-ScriptingBridge
+py2app
